@@ -26,7 +26,7 @@
 
 ## Hello Word!
 
-Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/) ! 
+Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
