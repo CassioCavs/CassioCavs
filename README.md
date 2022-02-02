@@ -24,7 +24,7 @@
 </br>
 </br>
 
-## Hello Word
+## Hello Word!
 
 Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/) ! 
 
