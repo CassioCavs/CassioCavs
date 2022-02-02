@@ -65,7 +65,7 @@ Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou 
   <a href="https://www.twitch.tv/m0nsterzinho"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="cassio-twitch"></a>
   <a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-cassio"></a>
   <a href="mailto:cassiolcavalcante@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-cassio"></a>
-  <a href="https://cassiocavs.carrd.co/"><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="carrd-cassio"></a>
+  
   ##
 <p align="center">
 <a href="https://github.com/CassioCavs">
