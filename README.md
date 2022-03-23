@@ -47,7 +47,7 @@ Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tenho estudado Javascript;</p>
+ <p align="left">📚 Tenho estudado Javascript e principalmente C;</p>
  <p align="left">🤿 Meu objetivo enquanto aprendiz é ter contato com equipes e pessoas que possam me tornar uma profissional melhor. Sou do time que topa qualquer parada! Acredito que todo aprendizado é válido!</p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
