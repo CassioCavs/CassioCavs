@@ -34,7 +34,7 @@ Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou 
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://cdn.discordapp.com/attachments/663197430053076995/938277589183770674/image_1.png">
-<code><img width="40px" src="[https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
