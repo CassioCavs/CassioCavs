@@ -29,13 +29,13 @@
 Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif" width="1400">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://cdn.discordapp.com/attachments/663197430053076995/938277589183770674/image_1.png">
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
-
+<code><img width="40px" src="https://img.icons8.com/color/344/html-5--v1.png" title = "HTML"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios-filled/452/c-plus-plus-logo.png" title = "C++"/></code>
 
