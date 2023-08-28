@@ -26,7 +26,7 @@
 
 ## Hello World!
 
-Tenho 18 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
+Tenho 19 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif" width="1400">
