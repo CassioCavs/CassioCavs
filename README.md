@@ -26,7 +26,7 @@
 
 ## Hello World!
 
-Tenho 19 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou iniciante no universo da programação, caçador oficial de bugs, e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
+Tenho 20 anos, moro em Belém/PA e sou apaixonado por programação e hardware, faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
 
 <p align="center">
   <img src="https://wallpaperaccess.com/full/2825810.gif" width="1400">
@@ -36,8 +36,11 @@ Tenho 19 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou 
 <img width="300px" align="right" src="https://cdn.discordapp.com/attachments/663197430053076995/938277589183770674/image_1.png">
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/344/html-5--v1.png" title = "HTML"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title = "JS"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios-filled/452/c-plus-plus-logo.png" title = "C++"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title = "PostgreSQL"/></code>
 
 
 
@@ -46,17 +49,10 @@ Tenho 19 anos, moro em Belém/PA e sou apaixonado por programação e dogs! Sou 
 
 </br>
 </br>
-<div display="inline-block">
- <p align="left">📚 Tenho estudado Javascript e principalmente C;</p>
- <p align="left">🤿 Meu objetivo enquanto aprendiz é ter contato com equipes e pessoas que possam me tornar uma profissional melhor. Sou do time que topa qualquer parada! Acredito que todo aprendizado é válido!</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
-</div>
-
-
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/CassioCavs) ou pelo [Twitter](https://twitter.com/CassioCavs) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/CassioCavs) ou pelo [Twitter](https://twitter.com/CassioCavs) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
