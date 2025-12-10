@@ -1,72 +1,18 @@
+# 💫 About Me:
+Tenho 22 anos, moro em Belém/PA e sou apaixonado por programação e hardware, faço faculdade de Eng. Da Computação
 
 
- </br>
- </br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cassiocavs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassiolcavalcante) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cassiolcavalcante@gmail.com) 
 
-<div dsplay="inline-block">
- 
-  <h1 align="left">Cássio Lima</h1>
- <a href="https://www.instagram.com/CassioCavs/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a>
-<a href="https://twitter.com/CassioCavs">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/cassiolcavalcante/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cassiocavs&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cassiocavs&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocavs&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cassiocavs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
-</br>
-</br>
-
-## Hello World!
-
-Tenho 20 anos, moro em Belém/PA e sou apaixonado por programação e hardware, faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/). 
-
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/2825810.gif" width="1400">
-</p>
-
-### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/344/html-5--v1.png" title = "HTML"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title = "JS"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios-filled/452/c-plus-plus-logo.png" title = "C++"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title = "PostgreSQL"/></code>
-
-
-
-
-
-
-</br>
-</br>
-
-</br>
-
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/CassioCavs) ou pelo [Twitter](https://twitter.com/CassioCavs) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
-
-<a href="https://instagram.com/CassioCavs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cassio-Instagram"></a>
-  <a href="https://twitter.com/cassiocavs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-cassio"></a>
-  <a href="https://www.twitch.tv/m0nsterzinho"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="cassio-twitch"></a>
-  <a href="https://www.linkedin.com/in/cassiolcavalcante/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-cassio"></a>
-  <a href="mailto:cassiolcavalcante@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-cassio"></a>
-  
-  ##
-<p align="center">
-<a href="https://github.com/CassioCavs">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=CassioCavs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height="175em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioCavs&layout=compact&langs_count=7&theme=synthwave" />
-  </a>
-</p
- 
-![Snake animation](https://github.com/CassioCavs/CassioCavs/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
